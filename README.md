@@ -4,3 +4,7 @@ This paper proposes a novel predictor-corrector IPM algorithm with a certified w
 
 <img width="459" height="430" alt="image" src="https://github.com/user-attachments/assets/348791a8-dd1b-444e-b7e3-0da913faa849" />
 
+## Nonlinear PDE-MPC case study
+<img width="458" height="170" alt="image" src="https://github.com/user-attachments/assets/4b0eb95d-2791-447f-a307-0cf93d4884c3" />
+
+<img width="938" height="270" alt="image" src="https://github.com/user-attachments/assets/12394600-4f82-48df-b9ee-5c208c5320ea" />
