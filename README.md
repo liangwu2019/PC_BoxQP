@@ -8,3 +8,8 @@ This paper proposes a novel predictor-corrector IPM algorithm with a certified w
 <img width="458" height="170" alt="image" src="https://github.com/user-attachments/assets/4b0eb95d-2791-447f-a307-0cf93d4884c3" />
 
 <img width="938" height="270" alt="image" src="https://github.com/user-attachments/assets/12394600-4f82-48df-b9ee-5c208c5320ea" />
+
+## Citing
+If you are using the Predictor-Corrector BoxQP algorithm for your work, we encourage you to
+* Cite the paper "A Time-certified Predictor-corrector IPM Algorithm for Box-QP", available at https://arxiv.org/pdf/25XX.XXXXX,
+* Put a star on this repository.
