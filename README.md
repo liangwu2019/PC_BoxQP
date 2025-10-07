@@ -11,5 +11,5 @@ This paper proposes a novel predictor-corrector IPM algorithm with a certified w
 
 ## Citing
 If you are using the Predictor-Corrector BoxQP algorithm for your work, we encourage you to
-* Cite the paper "A Time-certified Predictor-corrector IPM Algorithm for Box-QP", available at https://arxiv.org/pdf/25XX.XXXXX,
+* Cite the paper "A Time-certified Predictor-corrector IPM Algorithm for Box-QP", available at https://arxiv.org/pdf/2510.04467
 * Put a star on this repository.
